@@ -19,10 +19,10 @@ Files:
 3. Linux Application – send_diskusage.go
 
 
-##### Host Details
+#### Host Details
 
 ![Screenshot 1](Screenshots/screenshot.1.jpg)
 
-##### Host Details
+#### Result
 
 ![Screenshot 2](Screenshots/screenshot.2.jpg)
